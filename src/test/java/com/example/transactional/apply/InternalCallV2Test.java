@@ -40,7 +40,6 @@ public class InternalCallV2Test {
     }
 
     @Slf4j
-
     static class CallService {
 
         private final InternalService internalService;
